@@ -8,3 +8,10 @@ body {
     text-align: center;
     margin-top: 60px;
 }
+
+.link,
+.link:hover,
+.link:visited,
+.link:active {
+    color: #4FC08D;
+}
