@@ -1,5 +1,7 @@
 # starbase-router
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SonyaMoisset/StarbaseRouter_VUE.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
